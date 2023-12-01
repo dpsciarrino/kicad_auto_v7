@@ -1,0 +1,1 @@
+# kicad_auto_v7
