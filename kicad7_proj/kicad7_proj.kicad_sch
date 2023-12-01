@@ -1,0 +1,29 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 53c26c53-b00a-461e-8540-59c85cfdca17)
+
+  (paper "B")
+
+  (title_block
+    (title "{TITLE}")
+    (date "{DATE}")
+    (rev "{REVISION}")
+    (company "{AUTHOR}")
+    (comment 1 "{COMMENT 1}")
+    (comment 2 "{COMMENT 2}")
+    (comment 3 "{COMMENT 3}")
+    (comment 4 "{COMMENT 4}")
+    (comment 5 "")
+    (comment 6 "")
+    (comment 7 "")
+    (comment 8 "")
+    (comment 9 "")
+  )
+
+  (lib_symbols
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
