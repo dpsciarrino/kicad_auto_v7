@@ -16,19 +16,18 @@ Clone the repo using `git clone ...`. The directory structure that results looks
 │   ├── fp-lib-table
 │   ├── libs
 │   │   ├── footprints
-│   │   │   └── temp.pretty
+│   │   │   └── kicad7_proj.pretty
 │   │   ├── models
 │   │   └── symbols
-│   │       ├── temp.dcm
-│   │       └── temp.lib
+│   │       └── kicad7_proj.kicad_sym
 │   ├── meta
 │   │   └── info.html
 │   ├── sym-lib-table
-│   ├── temp.kicad_pcb
-│   ├── temp.pro
-│   ├── temp.sch
-│   └── title_block.kicad_wks
-├── kiproj.py
+│   ├── kicad7_proj.kicad_pcb
+│   ├── kicad7_proj.kicad_pro
+│   ├── kicad7_proj.kicad_sch
+│   └── title_block_v7.kicad_wks
+├── kicad7_proj.py
 ├── makefile
 └── README.md
 ```
@@ -75,7 +74,7 @@ A successful run will result in a directory structure similar to below:
 ├── fab_outputs
 ├── freecad_outputs
 ├── images
-├── kicad_proj
+├── kicad7_proj
 │   ├── fp-lib-table
 │   ├── libs
 │   │   ├── footprints
@@ -89,7 +88,7 @@ A successful run will result in a directory structure similar to below:
 │   ├── proj-id.prl
 │   ├── sym-lib-table
 │   └── title_block_v7.kicad_wks
-├── kiproj.py
+├── kicad7_proj.py
 ├── makefile
 ├── pdf_outputs
 ├── README.md
