@@ -24,6 +24,7 @@ Clone the repo using `git clone ...`. The directory structure that results looks
 │   │   └── info.html
 │   ├── sym-lib-table
 │   ├── kicad7_proj.kicad_pcb
+│   ├── kicad7_proj.kicad_prl
 │   ├── kicad7_proj.kicad_pro
 │   ├── kicad7_proj.kicad_sch
 │   └── title_block_v7.kicad_wks
