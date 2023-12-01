@@ -3,7 +3,7 @@
 KiCad Auto v7 is a semi-automatic build tool for instantiating KiCad projects. The tool takes in some basic project parameters from command line inputs, configures a title block, and creates a usable directory structure for a KiCad v7 project.
 
 **NOTE:** *THIS HAS ONLY BEEN TESTED WITH THE FOLLOWING KICAD/OS VERSIONS:*
-- KiCad Version: 7.0
+- KiCad Version: 7.0.9
 - Platform: Windows 11 Home
 
 ### Usage with Python
