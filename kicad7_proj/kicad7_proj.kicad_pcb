@@ -4,7 +4,7 @@
     (thickness 1.6)
   )
 
-  (paper "A")
+  (paper "B")
   
   (title_block
     (title "{TITLE}")
